@@ -2,7 +2,7 @@
 /node_modules
 
 # Archivos de construcción de TypeScript
-/dist
+# /dist
 
 # Archivos de configuración de TypeScript
 /tsconfig.json
